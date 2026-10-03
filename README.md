@@ -40,7 +40,7 @@ pip install cryptography
 
 Clone the repository:
 ```
-git clone https://github.com/YOUR_USERNAME/password-vault.git
+git clone https://github.com/Red4-is-schocked/password-vault.git
 ```
 Enter the project directory:
 ```
